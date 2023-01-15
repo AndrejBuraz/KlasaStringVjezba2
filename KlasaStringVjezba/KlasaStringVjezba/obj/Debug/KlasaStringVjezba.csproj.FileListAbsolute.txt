@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\KlasaStringVjezba\KlasaStringVjezba\bin\Debug\KlasaStringVjezba.exe.config
+C:\Users\HP\source\repos\KlasaStringVjezba\KlasaStringVjezba\bin\Debug\KlasaStringVjezba.exe
+C:\Users\HP\source\repos\KlasaStringVjezba\KlasaStringVjezba\bin\Debug\KlasaStringVjezba.pdb
+C:\Users\HP\source\repos\KlasaStringVjezba\KlasaStringVjezba\obj\Debug\KlasaStringVjezba.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\KlasaStringVjezba\KlasaStringVjezba\obj\Debug\KlasaStringVjezba.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\KlasaStringVjezba\KlasaStringVjezba\obj\Debug\KlasaStringVjezba.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\KlasaStringVjezba\KlasaStringVjezba\obj\Debug\KlasaStringVjezba.exe
+C:\Users\HP\source\repos\KlasaStringVjezba\KlasaStringVjezba\obj\Debug\KlasaStringVjezba.pdb
